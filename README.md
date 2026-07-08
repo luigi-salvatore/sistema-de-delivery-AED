@@ -25,3 +25,6 @@ Asimismo, podrá incorporar distintos estados de pedido y control de entregas re
 7. Ingrese la zona a donde se enviara el producto
 8. Ingrese el numero segun el estado en el que se encuentra el pedido
 9. El sistema devuelve el ticket con los datos registrados en el pedido
+
+# IA utilizada:
+Utilizamos la IA Gemini para aclarar nuestras dudas como la arquitectura del software para organizar el código en funciones lógicas y reutilizables, el uso de estructuras de datos adecuado y poder identificar errores al momento de ejecutar en el codigo.
