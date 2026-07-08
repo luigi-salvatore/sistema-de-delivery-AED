@@ -28,3 +28,6 @@ Asimismo, podrá incorporar distintos estados de pedido y control de entregas re
 
 # IA utilizada:
 Utilizamos la IA Gemini para aclarar nuestras dudas como la arquitectura del software para organizar el código en funciones lógicas y reutilizables, el uso de estructuras de datos adecuado y poder identificar errores al momento de ejecutar en el codigo.
+
+# Link al repositorio de GitHub:
+https://github.com/luigi-salvatore/sistema-de-delivery-AED/tree/main
